@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/pifoodsbill/static/css/main.8f298d6d.css",
+    "main.js": "/pifoodsbill/static/js/main.62a50d25.js",
+    "static/js/239.c544b0eb.chunk.js": "/pifoodsbill/static/js/239.c544b0eb.chunk.js",
+    "static/js/213.b65d0795.chunk.js": "/pifoodsbill/static/js/213.b65d0795.chunk.js",
+    "static/js/732.2f63256f.chunk.js": "/pifoodsbill/static/js/732.2f63256f.chunk.js",
+    "static/js/453.49d8d6bd.chunk.js": "/pifoodsbill/static/js/453.49d8d6bd.chunk.js",
+    "index.html": "/pifoodsbill/index.html",
+    "main.8f298d6d.css.map": "/pifoodsbill/static/css/main.8f298d6d.css.map",
+    "main.62a50d25.js.map": "/pifoodsbill/static/js/main.62a50d25.js.map",
+    "239.c544b0eb.chunk.js.map": "/pifoodsbill/static/js/239.c544b0eb.chunk.js.map",
+    "213.b65d0795.chunk.js.map": "/pifoodsbill/static/js/213.b65d0795.chunk.js.map",
+    "732.2f63256f.chunk.js.map": "/pifoodsbill/static/js/732.2f63256f.chunk.js.map",
+    "453.49d8d6bd.chunk.js.map": "/pifoodsbill/static/js/453.49d8d6bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f298d6d.css",
+    "static/js/main.62a50d25.js"
+  ]
+}

@@ -1,0 +1,53 @@
+/* styles.css */
+
+/* General Container */
+.container {
+  margin-top: 20px;
+}
+
+/* Products */
+.card-img-top {
+  height: 200px;
+  object-fit: cover;
+}
+
+.card-title {
+  font-size: 1.25rem;
+  font-weight: bold;
+}
+
+.card-body {
+  text-align: center;
+}
+
+/* Cart Table */
+.table th,
+.table td {
+  vertical-align: middle;
+  text-align: center;
+}
+
+.table td button {
+  margin: 0 auto;
+}
+
+/* Profit and Sales History Tables */
+.table-bordered th, 
+.table-bordered td {
+  text-align: center;
+  vertical-align: middle;
+}
+
+/* Form Elements */
+.form-group label {
+  font-weight: bold;
+}
+
+.form-check {
+  margin: 10px 0;
+}
+
+/* Buttons */
+button {
+  margin-top: 10px;
+}
